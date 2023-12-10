@@ -10,6 +10,8 @@ A smart security bicycle rental system is a modern, technology-driven solution f
 
  ## 1.2.Questionnaires
  A survey is conducted to a bicycle rental shopkeeper in Universiti Teknologi Malaysia, and one in Danga Bay to better understand the needs of the shopkeeper.
+ 
  ![image](https://github.com/faisalhazry/Smart-Security-Bicycle-Rental-system-for-Shopkeepers/assets/121289405/2bbb4a22-4dad-408c-b423-a1015d5c0861)
+ 
 
 ## 1.3.Analysis of Data Collection
