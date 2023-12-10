@@ -70,6 +70,9 @@ In conclusion, the system is able to function with some drawbacks. The GPS signa
 ## Acknowledgement
 I extend my sincere gratitude to Dr. Farid Zubir, whose guidance and unwavering support were integral to the success of this project. Norafiqah Balqis Sulaiman, Faisal Bin Hazry (that's me!), Lee Xing Yang, and Zakaria Mohamad Osman, your dedication, innovative ideas, and collaborative efforts were invaluable in achieving our team's objectives. Each member's unique skill set and commitment played a pivotal role in our triumph at the Electrical Engineering Capstone Showcase 2022. I'm immensely thankful for the collective efforts and unwavering commitment that culminated in our team winning the Theme award for the smart security competition. This success stands as a testament to our collective diligence and passion for innovation.
 
+## Video 
+https://youtu.be/PX2tWtgehLg
+
 
 
 
